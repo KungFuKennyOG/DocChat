@@ -18,7 +18,7 @@ To clone the repository and enter the directory, run the following commands in y
 
 ```bash
 git clone https://github.com/KungFuKennyOG/DocChat.git
-cd yDocChat
+cd DocChat
 ```
 
 ### Installing Dependencies
